@@ -1,3 +1,6 @@
+### 2 POINTS
+### KEY: Great job. You went above and beyond
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
